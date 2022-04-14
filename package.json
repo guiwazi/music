@@ -51,7 +51,7 @@
     }
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "axios": "^0.16.1",
     "font-awesome": "^4.7.0",
     "jsmediatags": "^3.8.1",
